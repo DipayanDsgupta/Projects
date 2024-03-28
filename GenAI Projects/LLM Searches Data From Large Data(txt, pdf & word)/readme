@@ -1,0 +1,4 @@
+This code is an implementation of a chatbot using the GPT-2 language model from Hugging Face's Transformers library. 
+Main Idea is to upload a file containing information. (feeding the data to llm)
+Search custom questions to llm which can retrive the feeded data and answer the question.(using  rpompt)
+Reference: https://huggingface.co/transformers/v2.2.0/pretrained_models.html
